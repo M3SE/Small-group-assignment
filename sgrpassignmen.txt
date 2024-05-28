@@ -1,0 +1,2 @@
+git pull 
+git pull means pulling something that automatically fetches and merges a branch.
