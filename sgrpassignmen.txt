@@ -1,2 +1,3 @@
 git pull 
-git pull means pulling something that automatically fetches and merges a branch.
+git pull means pulling something that automatically fetches and merges
+ git push means pushes info into github
