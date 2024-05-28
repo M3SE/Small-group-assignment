@@ -1,3 +1,4 @@
 git pull 
 git pull means pulling something that automatically fetches and merges
  git push means pushes info into github
+ git checkout -b will create a branch and set it to it
